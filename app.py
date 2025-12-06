@@ -5,7 +5,7 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
-# Load environment variables
+
 load_dotenv()
 
 # Configure Gemini API

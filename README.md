@@ -6,20 +6,7 @@ A Flask web application that uses Google's GenerativeAI (Gemini) to generate med
 
 The Medical Query Generator is a web application that leverages Google's GenerativeAI to generate detailed and accurate medical responses. Users input medical queries, and the application provides responses adhering to specific guidelines for clarity, accuracy, and informativeness.
 
-## Getting Started
 
-To get started with the project, follow the steps below.
-
-### Prerequisites
-
-- Google API Key
-- Google Generativeai
-- Flask
-- Python Dotenv
-
-### Installation
-
-1. Clone the repository:
 
    ```bash
    git clone https://github.com/KalyanMurapaka45/Medical-Assisstant.git
